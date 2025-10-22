@@ -52,5 +52,3 @@ const Auth = () => {
 }
 
 export default Auth
-
-// 45:02
