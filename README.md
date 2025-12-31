@@ -10,4 +10,4 @@ Tech stack:<br>
 React + TypeScript<br>
 Vite<br>
 Custom Puter AI/FS/KV integration<br>
-OCR via ai.img2txt<br>
+OCR via ai.img2txt
