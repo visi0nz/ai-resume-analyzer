@@ -1,5 +1,5 @@
 import type { Route } from "./+types/home";
-import Navbar from "../components/Navbar";
+import Navbar from "~/components/Navbar";
 import ResumeCard from "~/components/ResumeCard";
 import { useEffect, useState } from "react";
 import { Link, useNavigate } from "react-router";
